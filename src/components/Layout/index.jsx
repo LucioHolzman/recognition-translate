@@ -26,7 +26,7 @@ export const Layout = () => {
       params: { text: templateTextRecognition, to: "en", from: "es" },
       headers: {
         "content-type": "application/json",
-        "x-rapidapi-key": "af045445c1msha435b2efba7c2bep101bfajsn2cab06ea5fa5",
+        "x-rapidapi-key": "API_KEY",
         "x-rapidapi-host": "translo.p.rapidapi.com",
       },
       data: { key1: "value", key2: "value" },
